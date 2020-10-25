@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+
+# Datasets
+complaints.csv
+complaints.zip
+complaints.xlsx
+
+
+# Folders
+Resources/
+Previous/
+
+# Tableau
+HexStates.DBF
+HexStates.PRJ
+HexStates.shp
+HexStates.SHX
+HexStates.yxmd
+State Shape.csv
+
+
